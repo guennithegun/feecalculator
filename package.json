@@ -1,0 +1,12 @@
+{
+  "name": "feecalculator",
+  "version": "1.0.0",
+  "description": "app for logging time working on clients and calculate hourly fees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
